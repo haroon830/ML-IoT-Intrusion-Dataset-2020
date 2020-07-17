@@ -1,0 +1,15 @@
+1.Intsall Libraries:
+     keras,numpy,pandas,sklearn,io,tensorflow
+
+2. Make a separate environment. To make separate environment in anaconda open the anaconda prompt and run this command.
+      COMMAND:  conda create --name ML
+
+3.Then Activate this ML enviroment
+   COMMAND : conda activate ML
+  and install all these libraries in it.
+
+3.Open pycharm and select the anaconda interpreter
+     (File->setting->project Interpreter)
+
+
+4.Apply these changes and then Run the ML.py file.git push -u origin master
